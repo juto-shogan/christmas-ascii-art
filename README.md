@@ -35,6 +35,7 @@ cd christmas-ascii-art
 bash ./snowman.sh
 bash ./santa.sh
 bash ./tree.sh
+bash ./star.sh
 ```
 
 ## Contributing
